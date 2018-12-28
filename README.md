@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## The Christmas Joy Spreading Machine
 
-You can use the [editor on GitHub](https://github.com/alicemirror/ChristmasJoySpreadingMachine/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The design idea was to make a complete scenario representing - inside a box - **a metaphor of the most popular Christmas symbols**. Maybe it is a bit distopyc but it moves, lights and reacts to music. The other not easy aspect of the building was just to use the cardboard as the primary material. The central moving parts have been inspired by the incredible quantity of DIY Marble Machines you can find on YouTube (just put the two terms for searching videos and you remain speechless)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A more detailed description of the electronic assembly can be found on the [Element14 Project14 blog post](https://www.element14.com/community/community/project14/merryboxesleds/blog/2018/12/23/the-christmas-joy-spreading-machine).
 
-### Markdown
+### What's in this Repo
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This repository contains the Javascript source of the BBC micro:bit program that runs all the cardboard machine mechanism together with the SVG design files I have used creating the cardboard components.
 
-```markdown
-Syntax highlighted code block
+Some gallery images on the mechanism construction and more details on the cardboard and other poor and recycled materials I used can be found on the project showcase on [Hackster.io](https://www.hackster.io/balearicdynamics/the-christmas-joy-spreading-machine-3d3559).
 
-# Header 1
-## Header 2
-### Header 3
+## Video
+The video of the full working machine can be found on YouTube: [https://youtu.be/Bh3wRqP2iHo](https://youtu.be/Bh3wRqP2iHo)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alicemirror/ChristmasJoySpreadingMachine/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+*Enjoy!*
