@@ -16,7 +16,7 @@ This repository contains the Javascript source of the BBC micro:bit program that
 
 ![The Machine](https://raw.githubusercontent.com/alicemirror/ChristmasJoySpreadingMachine/master/Images/Machine83.JPG)
 
-![The Machine](https://raw.githubusercontent.com/alicemirror/ChristmasJoySpreadingMachine/master/Images/Machine96.JPG)
+![The Machine](https://raw.githubusercontent.com/alicemirror/ChristmasJoySpreadingMachine/master/Images/Machine95.JPG)
 
 Some gallery images on the mechanism construction and more details on the cardboard and other poor and recycled materials I used can be found on the project showcase on [Hackster.io](https://www.hackster.io/balearicdynamics/the-christmas-joy-spreading-machine-3d3559).
 
