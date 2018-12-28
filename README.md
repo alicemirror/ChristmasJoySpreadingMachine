@@ -1,5 +1,7 @@
 ## The Christmas Joy Spreading Machine
 
+![The Machine](https://raw.githubusercontent.com/alicemirror/ChristmasJoySpreadingMachine/master/Images/Machine45.JPG)
+
 The design idea was to make a complete scenario representing - inside a box - **a metaphor of the most popular Christmas symbols**. Maybe it is a bit distopyc but it moves, lights and reacts to music. The other not easy aspect of the building was just to use the cardboard as the primary material. The central moving parts have been inspired by the incredible quantity of DIY Marble Machines you can find on YouTube (just put the two terms for searching videos and you remain speechless)
 
 A more detailed description of the electronic assembly can be found on the [Element14 Project14 blog post](https://www.element14.com/community/community/project14/merryboxesleds/blog/2018/12/23/the-christmas-joy-spreading-machine).
